@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Splash Screen Kotlin</string>
+    <string name="get_vaccinated">Get Vaccinated!</string>
+</resources>
